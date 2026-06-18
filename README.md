@@ -3,6 +3,7 @@
 🎓 **B.E. Computer Engineering Student** (Mumbai University)
 
 💻 **Aspiring Java Full Stack Developer** | Passionate about Web Development, Software Engineering, and building user-friendly web applications.
+💡 Interested in Java Full Stack Development, Backend Development, and solving real-world problems through software.
 
 ---
 
@@ -38,7 +39,7 @@
 
 ### 🎓 Student Dashboard System
 
-Developed a **Student Dashboard Web Application** using **Django, HTML, CSS, and MySQL** to manage student records with CRUD operations and an intuitive user interface.
+Developed a **Student Dashboard Web Application** using **Django, HTML, CSS, and SQLite** to manage student records with CRUD operations and an intuitive user interface.
 
 ---
 
@@ -71,7 +72,7 @@ Developed a **Student Dashboard Web Application** using **Django, HTML, CSS, and
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Dipalii20\&theme=onedark\&no-frame=true\&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Dipalii20&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
