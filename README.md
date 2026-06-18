@@ -2,8 +2,7 @@
 
 🎓 **B.E. Computer Engineering Student** (Mumbai University)
 
-💻 **Aspiring Java Full Stack Developer** | Passionate about Web Development, Software Engineering, and building user-friendly web applications.<br><br>
-💡 Interested in Java Full Stack Development, Backend Development, and solving real-world problems through software.
+💻 **Aspiring Java Full Stack Developer** | Passionate about Web Development, Software Engineering, and building user-friendly web applications.
 
 ---
 
