@@ -6,6 +6,12 @@
 
 ---
 
+## 👀 Profile Visitors
+
+![](https://komarev.com/ghpvc/?username=Dipalii20\&color=blue\&style=flat-square)
+
+---
+
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
@@ -51,33 +57,9 @@ Developed a **Student Dashboard Web Application** using **Django, HTML, CSS, and
 
 ---
 
-## 📈 GitHub Stats
-
-![Deepali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dipalii20\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
----
-
 ## 🔥 GitHub Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Dipalii20\&theme=tokyonight\&hide_border=true)](https://git.io/streak-stats)
-
----
-
-## 💻 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dipalii20\&layout=compact\&theme=tokyonight\&hide_border=true)
-
----
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Dipalii20&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 👀 Profile Visitors
-
-![](https://komarev.com/ghpvc/?username=Dipalii20\&color=blue\&style=flat-square)
 
 ---
 
