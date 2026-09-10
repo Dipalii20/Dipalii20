@@ -1,9 +1,10 @@
 # 👋 Hi, I'm Deepali Shyam Chaudhari
 
-🎓 **B.E. Computer Engineering Student** (Mumbai University)
+🎓 **B.E. Computer Engineering Student** | Mumbai University
 
-💻 **Aspiring Java Full Stack Developer** | Passionate about Web Development, Software Engineering, and building user-friendly web applications.
+💻 **Aspiring Java Full Stack Developer** 
 
+I enjoy building practical applications and learning through hands-on projects.
 ---
 
 ## 👀 Profile Visitors
@@ -18,7 +19,7 @@
 
 * Java
 * JavaScript
-* Python (Learning)
+* Python 
 
 ### 🎨 Frontend
 
@@ -36,24 +37,20 @@
 * GitHub
 * VS Code
 * IntelliJ IDEA
-* MySQL Workbench
 
 ---
 
-## 🚀 Projects
+### 🚀 Projects
 
-### 🎓 Student Dashboard System
-
-Developed a **Student Dashboard Web Application** using **Django, HTML, CSS, and SQLite** to manage student records with CRUD operations and an intuitive user interface.
+- 🎓 Student Result Management System
+- ✈️ AI Trip Planner
 
 ---
 
 ## 🌱 Currently Learning
 
-* Spring Boot
-* React.js
-* Python
-* Data Structures & Algorithms
+* Data Structures & Algorithms (Java)
+* Full Stack Development
 
 ---
 
